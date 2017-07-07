@@ -51,7 +51,7 @@
                 "linkMan": "张三",                                    //联系人
                 "userName": "李四",                                   //使用人              
                 "businessId": "",                                     //业务ID
-                "businessFlag": "0"                                   //是否已经洽谈
+                "businessFlag": "0"                                   //洽谈标识(0:未洽谈;1:已洽谈)
             }
         ],
         "total": 1                                                     //总条数
