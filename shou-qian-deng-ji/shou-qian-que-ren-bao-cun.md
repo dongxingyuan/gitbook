@@ -24,9 +24,9 @@
 {
     "tokenUUID": "A82ADE66C0824A7F943C17EFEF46C35F",                 //令牌
     "linkmanId": "张三",                                              //售前联系人ID
-    "receiveFlag": "0",                                               //是否购买
-    "unbuyReason": "1",                                               //未购买原因
-    "unbuyReasonOther": "其他原因"                                     //其他原因
+    "receiveFlag": "0",                                              //是否购买
+    "unbuyReason": "1",                                              //未购买原因
+    "unbuyReasonOther": "其他原因"                                    //其他原因
     "remark": "备注"                                                  //备注
 }
 ```
