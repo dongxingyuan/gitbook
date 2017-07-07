@@ -8,7 +8,9 @@
   * [售前确认初始化](shou-qian-deng-ji/shou-qian-que-ren.md)
   * [售前确认保存](shou-qian-deng-ji/shou-qian-que-ren-bao-cun.md)
 * [未售墓查询](wei-shou-mu-cha-xun.md)
-* 墓穴保留
+* [墓穴保留](mu-xue-bao-liu.md)
+  * [获取墓区信息](mu-xue-bao-liu/jia-zai-mu-qu.md)
+  * [获取墓穴信息](mu-xue-bao-liu/huo-qu-mu-xue-xin-xi.md)
 * 现在划地
 * 业务登记
 * 上账审批
