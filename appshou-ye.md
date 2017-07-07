@@ -47,28 +47,22 @@ json = {
             "headUrl": "http://aliyuncs.com/2017-07/f58.jpg"          //头像
         }
     ],
-    "userBean": {
-        "userId": "9",
-        "userNo": "9999",
-        "loginName": "9999",
-        "userName": "管理员9",
-        "unitName": "福寿园集团",
-        "deptName": "销售部",
-        "headImage": "2017-07/415.jpg",
-        "headUrl": "http://aliyuncs.com/2017-07/415.jpg"
+    "userBean": {                                                     //用户信息
+        "userId": "9",                                                //用户ID
+        "userNo": "9999",                                             //用户工号
+        "loginName": "9999",                                          //用户登录名称
+        "userName": "管理员9",                                         //用户姓名
+        "unitName": "福寿园集团",                                      //单位名称
+        "deptName": "销售部",                                          //部门名称
+        "headImage": "2017-07/415.jpg",                               //头像
+        "headUrl": "http://aliyuncs.com/2017-07/415.jpg"              //头像显示路径
     },
-    "images": [
+    "images": [                                                       //首页图片
         {
-            "id": "2",
-            "title": "dasdsad",
-            "url": "http://aliyuncs.com/2017-07/fda.jpg"
-            "content": "2"
-        },
-        {
-            "id": "1",
-            "title": "dasda",
-            "url": "http://aliyuncs.com/2017-07/310.jpg",
-            "content": "1"
+            "id": "2",                                                //图片ID
+            "title": "dasdsad",                                       //标题
+            "url": "http://aliyuncs.com/2017-07/fda.jpg"              //图片路径
+            "content": "2"                                            //内容
         }
     ],
 }
