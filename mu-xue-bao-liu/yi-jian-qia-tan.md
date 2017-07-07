@@ -28,26 +28,35 @@
 {
     "alertFlag": true,                                               //成功标识
     "alertCode": "1"                                                 //成功编码
-    "page": {                                                        //分页数据
-        "current": 1,                                                //当前页号
-        "rowCount": 10,                                              //每页条数
-        "rows": [                                                    //分页数据
-            {
-                "bookingId": "1",                                   //墓穴保留ID
-                "tombPath": "大蜀山文化陵园归宁园1区GN4-3",            //墓穴位置
-                "sellerplace": "陵园",                               //营销地点
-                "seller": "韩洋",                                    //营销人
-                "bookDay": "2",                                     //保留时间
-                "startTime": "2017-07-07 20:45:01",                  //开始时间
-                "endTime": "2017-07-07 22:45:01",                    //结束时间
-                "linkMan": "张三",                                    //联系人
-                "userName": "李四",                                   //使用人              
-                "bookNo": "B20170707001",                             //墓穴保留编号
-                "businessFlag": "0"                                   //洽谈标识(0:未洽谈;1:已洽谈)
-            }
-        ],
-        "total": 1                                                     //总条数
-    }   
+    "bean": {
+        "tombId": "710262",
+        "layerCode": "归宁047010201",
+        "tombPath": "大蜀山文化陵园归宁园1区GN2-1",
+        "graveNo": "2",
+        "basicPrice": "1000.00",
+        "sellplaceId": "1",
+        "sellplaceName": "陵园",
+        "sellerId": "4",
+        "sellerName": "韩洋",
+        "linkMan": "张三",
+        "linkManSex": "9",
+        "linkManPhoneNo": "18662528814",
+        "linkManMobileNo": "18662528814",
+        "addressProvince": "340000",
+        "addressCity": "340100",
+        "addressCountty": "340102",
+        "addressProvinceName": "安徽省",
+        "addressCityName": "合肥市",
+        "addressCounttyName": "瑶海区",
+        "addressDetail": "新村路",
+        "userName": "李四,未知",
+        "userSex": "9,9",
+        "userGraveType": "0,0",
+        "userCertificateId": "",
+        "userCertificateNo": "",
+        "bookSaveId": "",
+        "bookingId": "7411"
+    },
 }
 ```
 
