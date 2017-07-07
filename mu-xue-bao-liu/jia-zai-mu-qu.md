@@ -17,7 +17,9 @@
 ```json
 json={
     "tokenUUID": "A82ADE66C0824A7F943C17EFEF46C35F",                 //令牌
-}&objId="1"&filterType="1"
+}
+&objId="1"                                                           //墓区ID
+&filterType="1"                                                      //过滤类型
 ```
 
 #### 返回结果：
