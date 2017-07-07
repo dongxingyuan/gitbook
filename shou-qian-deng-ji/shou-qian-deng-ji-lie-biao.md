@@ -52,13 +52,13 @@
                 "linkmanDetailId": 6,                                  //售前联系人详情ID 
                 "receiveUser": "",                                     //确认人
                 "buyFlag": "0",                                        //购买标识(0:未购买;1:已购买)
-                "addressFull": "",
-                "layerCode": "",
-                "businessNo": "",
-                "userName": "李四",
-                "arriveTime": "2024-09-09",
-                "payStatus": "未付款",
-                "payStatusId": ""
+                "addressFull": "",                                     //联系人详细地址
+                "layerCode": "",                                       //墓穴编号
+                "businessNo": "",                                      //业务编号
+                "userName": "李四",                                     //使用人
+                "arriveTime": "2024-09-09",                             //来园时间
+                "payStatus": "未付款",                                   //付款状态
+                "payStatusId": "0"                                      //0:未付款;1:定金;3:全款 
             }
         ],
         "total": 1
