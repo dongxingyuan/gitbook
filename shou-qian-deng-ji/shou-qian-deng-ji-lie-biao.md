@@ -1,6 +1,6 @@
 #### 接口**路径：**
 
-[http//localhost:8080/fsyGroupApp/common/interface/appIndex](http:8080/fsyGroupApp/common/interface/appIndex)
+[http//localhost:8080/fsyGroupApp/interment/interface/receptionList](http:8080/fsyGroupApp/common/interface/appIndex)
 
 ---
 
