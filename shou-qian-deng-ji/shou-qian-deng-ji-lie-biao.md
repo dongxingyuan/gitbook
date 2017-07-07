@@ -21,11 +21,11 @@
 
 ```json
 {
-    "tokenUUID": "A82ADE66C0824A7F943C17EFEF46C35F",
-    "current": 1,
-    "rowCount": 10,
-    "queryMap": {
-        "createUser": 9
+    "tokenUUID": "A82ADE66C0824A7F943C17EFEF46C35F",                //令牌
+    "current": 1,                                                   //页数
+    "rowCount": 10,                                                 //每页条数
+    "queryMap": {                                                   //查询条件
+        "createUser": 9                                             //创建人ID
     }
 }
 ```
