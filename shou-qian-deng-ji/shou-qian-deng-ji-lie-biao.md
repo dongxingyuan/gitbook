@@ -35,48 +35,34 @@
 ```json
 {
     "alertFlag": true,                                               //成功标识
-    "alertCode": "1"
-    "msgs": [                                                        //用户消息
-        {
-            "id": "9",                                               //消息ID
-            "title": "福寿园国际集团第一期",                           //消息标题
-            "content": "福寿园国际集团第一期",                         //消息内容
-            "createDate": "2017-07-03",                              //发送时间
-            "acceptDate": "2017-06-30",                              //接收时间
-            "userName": "管理员1",                                    //发送人
-            "headUrl": "http://aliyuncs.com/2017-07/f58.jpg",        //头像
-            "status": "1"                                            //消息状态 (0:未接收1:已接收)
-        }
-    ],
-    "notices": [                                                     //通知
-        {
-            "id": "1",                                                //通知ID 
-            "title": "福寿园国际集团第一期“福寿人体验营”",               //通知标题
-            "content": "6月26日，福寿园国际集团第一期培训在上海举行",     //通知内容
-            "createDate": "2017-06-30",                               //发送时间
-            "createUser": "管理员1",                                   //发送人
-            "endDate": "2017-07-31",                                  //截至时间
-            "headUrl": "http://aliyuncs.com/2017-07/f58.jpg"          //头像
-        }
-    ],
-    "userBean": {                                                     //用户信息
-        "userId": "9",                                                //用户ID
-        "userNo": "9999",                                             //用户工号
-        "loginName": "9999",                                          //用户登录名称
-        "userName": "管理员9",                                         //用户姓名
-        "unitName": "福寿园集团",                                      //单位名称
-        "deptName": "销售部",                                          //部门名称
-        "headImage": "2017-07/415.jpg",                               //头像
-        "headUrl": "http://aliyuncs.com/2017-07/415.jpg"              //头像显示路径
-    },
-    "images": [                                                       //首页图片
-        {
-            "id": "2",                                                //图片ID
-            "title": "dasdsad",                                       //标题
-            "url": "http://aliyuncs.com/2017-07/fda.jpg"              //图片路径
-            "content": "2"                                            //内容
-        }
-    ],
+    "alertCode": "1"                                                 //成功编码
+    "page": {                                                        //分页数据
+        "current": 1,                                                //当前页号
+        "rowCount": 10,                                              //每页条数
+        "rows": [
+            {
+                "linkman": "张三",
+                "linkmanPhone": "**没有权限**",
+                "linkmanSex": "1",
+                "sellerName": "刘艳",
+                "sellplace": "陵园",
+                "registerUser": "管理员9",
+                "registerDate": "2017-07-07",
+                "linkmanId": 6,
+                "linkmanDetailId": 6,
+                "receiveUser": "",
+                "buyFlag": "0",
+                "addressFull": "",
+                "layerCode": "",
+                "businessNo": "",
+                "userName": "李四",
+                "arriveTime": "2024-09-09",
+                "payStatus": "未付款",
+                "payStatusId": ""
+            }
+        ],
+        "total": 1
+    }   
 }
 ```
 
