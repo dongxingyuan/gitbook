@@ -24,10 +24,10 @@
 {
     "tokenUUID": "A82ADE66C0824A7F943C17EFEF46C35F",                //令牌
     "name": "张三",
-    "sex": 0,
+    "sex": "0",
     "phoneNo": "021-8888888",
     "mobileNo": "1388888888",
-    "sellerId": 1,
+    "sellerId": "1",
     "userName": "李四",
     "arriveTime": "2018-08-08",
     "remark": "
