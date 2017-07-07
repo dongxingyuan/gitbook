@@ -24,7 +24,44 @@
 {
     "alertFlag": true,                                               //成功标识
     "alertCode": "1"                                                 //成功编码
-    "alertMessage": "保存成功"                                        //成功信息
+    "unbuyReasonList": [
+        {
+            "id": 1,
+            "isValidate": "1",
+            "name": "价格贵",
+            "indexNo": 0
+        },
+        {
+            "id": 2,
+            "isValidate": "1",
+            "name": "没有满意的",
+            "indexNo": 0
+        },
+        {
+            "id": 3,
+            "isValidate": "1",
+            "name": "去其他墓园看看",
+            "indexNo": 0
+        },
+        {
+            "id": 4,
+            "isValidate": "1",
+            "name": "再考虑考虑",
+            "indexNo": 0
+        },
+        {
+            "id": 5,
+            "isValidate": "1",
+            "name": "客户不想说",
+            "indexNo": 0
+        },
+        {
+            "id": 6,
+            "isValidate": "1",
+            "name": "其他",
+            "indexNo": 0
+        }
+    ],
 }
 ```
 
