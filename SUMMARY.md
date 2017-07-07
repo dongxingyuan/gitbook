@@ -7,7 +7,7 @@
   * [售前登记保存](shou-qian-deng-ji/shou-qian-deng-ji-bao-cun.md)
   * [售前确认初始化](shou-qian-deng-ji/shou-qian-que-ren.md)
   * [售前确认保存](shou-qian-deng-ji/shou-qian-que-ren-bao-cun.md)
-* 未售墓查询
+* [未售墓查询](wei-shou-mu-cha-xun.md)
 * 墓穴保留
 * 现在划地
 * 业务登记
