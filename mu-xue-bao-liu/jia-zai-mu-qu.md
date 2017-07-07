@@ -71,7 +71,7 @@ json={
             "baseSum": "2100.00",                                   //墓穴售价
             "displayNo": "GN1-1",                                   //显示编号
             "buildFlag": "2",                                       //建墓状态(0:未建;1:再建;2:建成)
-            "onSaleFlag": "2",
+            "onSaleFlag": "2",                                      //上账状态  
             "mergeFlag": false,
             "mergeMainFlag": false,
             "rowLastFlag": false,
