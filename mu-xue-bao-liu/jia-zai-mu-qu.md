@@ -35,13 +35,6 @@ json={
             "rowNo": "",                                             //行数
             "columnNo": "",                                          //列数
             "isBottom": "0"                                          //是否底级
-        },
-        {
-            "id": "152",
-            "name": "长青园",
-            "rowNo": "",
-            "columnNo": "",
-            "isBottom": "0"
         }
     ],
     "type": "1"                                                    //数据类型(1:墓区;2:墓穴)
