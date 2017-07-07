@@ -22,6 +22,7 @@ json = {
 
 ```json
 {
+    "alertFlag": true,                                               //成功标识
     "msgs": [                                                        //用户消息
         {
             "id": "9",                                               //消息ID
@@ -34,7 +35,6 @@ json = {
             "status": "1"                                            //消息状态 (0:未接收1:已接收)
         }
     ],
-    "alertFlag": true,
     "notices": [
         {
             "id": "1",
