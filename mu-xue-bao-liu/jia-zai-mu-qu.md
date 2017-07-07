@@ -44,7 +44,7 @@ json={
             "isBottom": "0"
         }
     ],
-    "type": "1"
+    "type": "1"                                                    //数据类型(1:墓区;2:墓穴)
 }
 ```
 
@@ -52,25 +52,25 @@ json={
 
 ```json
 {
-    "alertFlag": true,
-    "alertCode": "1",
-    "columnNo": 9,
-    "rowNo": 9,
-    "onSiteFlag": "1"
-    "list": [
+    "alertFlag": true,                                              //成功标识
+    "alertCode": "1",                                               //成功代码
+    "columnNo": 9,                                                  //列
+    "rowNo": 9,                                                     //行
+    "onSiteFlag": "1"                                               //是否可划地墓区(1:可以;2:不可以)
+    "list": [                                                       //墓穴信息
         {
-            "gridId": 338800,
-            "tombId": 710253,
-            "rowNo": 0,
-            "columnNo": 0,
-            "path": "大蜀山文化陵园归宁园1区GN1-1",
-            "tombPath": "大蜀山文化陵园归宁园1区GN1-1",
-            "status": 4,
-            "layerCode": "归宁047010101",
-            "graveNo": 2,
-            "baseSum": "2100.00",
-            "displayNo": "GN1-1",
-            "buildFlag": "2",
+            "gridId": 338800,                                       //各位ID
+            "tombId": 710253,                                       //墓穴ID
+            "rowNo": 0,                                             //行号
+            "columnNo": 0,                                          //列号
+            "path": "大蜀山文化陵园归宁园1区GN1-1",                   //墓穴位置
+            "tombPath": "大蜀山文化陵园归宁园1区GN1-1",               //墓穴位置
+            "status": 4,                                            //墓穴状态
+            "layerCode": "归宁047010101",                           //墓穴编号
+            "graveNo": 2,                                           //穴数
+            "baseSum": "2100.00",                                   //墓穴售价
+            "displayNo": "GN1-1",                                   //显示编号
+            "buildFlag": "2",                                       //建墓状态(0:未建;1:再建;2:建成)
             "onSaleFlag": "2",
             "mergeFlag": false,
             "mergeMainFlag": false,
@@ -83,8 +83,6 @@ json={
     "type": "2"
 }
 ```
-
-
 
 
 
