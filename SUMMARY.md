@@ -12,6 +12,7 @@
   * [获取墓区信息](mu-xue-bao-liu/jia-zai-mu-qu.md)
   * [获取墓穴信息](mu-xue-bao-liu/huo-qu-mu-xue-xin-xi.md)
   * [暂时保留初始化](mu-xue-bao-liu/zan-shi-bao-liu-chu-shi-hua.md)
+  * [暂时保留保存](mu-xue-bao-liu/zan-shi-bao-liu-bao-cun.md)
 * 现在划地
 * 业务登记
 * 上账审批
