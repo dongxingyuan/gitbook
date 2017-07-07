@@ -26,16 +26,41 @@ json={
 {
     "alertFlag": true,                                               //成功标识
     "alertCode": "1"                                                 //成功编码
-    "list": [                                                        //墓区信息
-        {
-            "id": "149",                                             //墓区ID
-            "name": "归宁园",                                         //墓区名称
-            "rowNo": "",                                             //行数
-            "columnNo": "",                                          //列数
-            "isBottom": "0"                                          //是否底级
-        }
-    ],
-    "type": "1"                                                     //数据类型(1:墓区;2:墓穴)
+    "bean": {
+        "tombPath": "大蜀山文化陵园长青园1区CQ1_2",
+        "layerCode": "长青047010102",
+        "graveNo": 2,
+        "baseSum": "46200.00",
+        "displayNo": "CQ1-2",
+        "mergeFlag": false,
+        "mergeMainFlag": false,
+        "rowLastFlag": false,
+        "basicPrice": "45000.00",
+        "id": "710416",
+        "buryStyleName": "丰碑园",
+        "tombStyleName": "商品艺术墓",
+        "supplierName": "",
+        "tombMaterial": "大理石",
+        "useArea": "0.000",
+        "sellArea": "4.500",
+        "factArea": "0.000",
+        "greenArea": "0.000",
+        "roadArea": "0.000",
+        "buildArea": "0.000",
+        "shareArea": "0.000",
+        "lowestPrice": "0.00",
+        "innerHeight": "0.00",
+        "innerLength": "0.00",
+        "innerWidht": "0.00"
+    },
+    "files": [
+           {
+            "id": "大蜀山文化陵园长青园1区CQ1_2",
+            "tombId": "长青047010102",
+            "fileName": 2,
+            "filePath": "46200.00"
+        },
+    ]                                                     //数据类型(1:墓区;2:墓穴)
 }
 ```
 
