@@ -56,7 +56,7 @@
                 "layerCode": "",                                       //墓穴编号
                 "businessNo": "",                                      //业务编号
                 "userName": "李四",                                     //使用人
-                "arriveTime": "2024-09-09",                             //来园时间
+                "arriveTime": "2024-09-09",                            //来园时间
                 "payStatus": "未付款",                                  //付款状态
                 "payStatusId": "0"                                     //0:未付款;1:定金;3:全款 
             }
