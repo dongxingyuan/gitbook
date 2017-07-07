@@ -51,35 +51,28 @@
 
 ```json
 {
-    "alertFlag": true,                                               //成功标识
-    "alertCode": "1"                                                 //成功编码
-    "page": {                                                        //分页数据
-        "current": 1,                                                //当前页号
-        "rowCount": 10,                                              //每页条数
-        "rows": [                                                    //返回数据
+    "alertFlag": true,
+    "alertCode": "1",
+    "page": {
+        "current": 1,
+        "rowCount": 10,
+        "rows": [
             {
-                "linkman": "张三",                                     //联系人
-                "linkmanPhone": "**没有权限**",                        //联系手机
-                "linkmanSex": "1",                                    //联系人性别
-                "sellerName": "刘艳",                                  //营销人
-                "sellplace": "陵园",                                   //营销地点
-                "registerUser": "管理员9",                             //登记人
-                "registerDate": "2017-07-07",                          //登记时间
-                "linkmanId": 6,                                        //售前联系人ID
-                "linkmanDetailId": 6,                                  //售前联系人详情ID 
-                "receiveUser": "",                                     //确认人
-                "buyFlag": "0",                                        //购买标识(0:未购买;1:已购买)
-                "addressFull": "",                                     //联系人详细地址
-                "layerCode": "",                                       //墓穴编号
-                "businessNo": "",                                      //业务编号
-                "userName": "李四",                                     //使用人
-                "arriveTime": "2024-09-09",                            //来园时间
-                "payStatus": "未付款",                                  //付款状态
-                "payStatusId": "0"                                     //0:未付款;1:定金;3:全款 
-            }
+                "tombId": "710334",
+                "tombStyleName": "和雅园",
+                "buryStyleName": "雕塑艺术墓",
+                "graveNo": "2",
+                "layerCode": "归宁021020101",
+                "sellArea": "4.900",
+                "baseSum": "89988.00",
+                "tombMaterial": "大理石",
+                "basePrice": "88888.00",
+                "blockName": "归宁园2区"
+            }          
         ],
-        "total": 1                                                     //总条数
-    }   
+        "total": 165
+    }
+    
 }
 ```
 
