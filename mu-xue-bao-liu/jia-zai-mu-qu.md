@@ -28,7 +28,23 @@ json={
 {
     "alertFlag": true,                                               //成功标识
     "alertCode": "1"                                                 //成功编码
-    "alertMessage": "保存成功"                                        //成功信息
+    "list": [                                                        //墓区信息
+        {
+            "id": "149",                                             //墓区ID
+            "name": "归宁园",                                         //墓区名称
+            "rowNo": "",                                             //行数
+            "columnNo": "",                                          //列数
+            "isBottom": "0"                                          //是否底级
+        },
+        {
+            "id": "152",
+            "name": "长青园",
+            "rowNo": "",
+            "columnNo": "",
+            "isBottom": "0"
+        }
+    ],
+    "type": "1"
 }
 ```
 
