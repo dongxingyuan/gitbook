@@ -22,16 +22,16 @@ json = {
 
 ```json
 {
-    "msgs": [                        //用户消息
+    "msgs": [                                                        //用户消息
         {
-            "id": "9",
-            "title": "福寿园国际集团第一期",
-            "content": "福寿园国际集团第一期",
-            "createDate": "2017-07-03",
-            "acceptDate": "2017-06-30",
-            "userName": "管理员1",
-            "headUrl": "http://aliyuncs.com/2017-07/f58.jpg",
-            "status": "1"
+            "id": "9",                                               //消息ID
+            "title": "福寿园国际集团第一期",                           //标题
+            "content": "福寿园国际集团第一期",                         //内容
+            "createDate": "2017-07-03",                              //发送时间
+            "acceptDate": "2017-06-30",                              //接收时间
+            "userName": "管理员1",                                    //发送人
+            "headUrl": "http://aliyuncs.com/2017-07/f58.jpg",        //头像
+            "status": "1"                                            //消息状态
         }
     ],
     "alertFlag": true,
