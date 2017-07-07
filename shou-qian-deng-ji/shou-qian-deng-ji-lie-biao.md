@@ -9,15 +9,24 @@
 | 参数 | 类型 | 是否必填 | 最大长度 | 描述 | 示例值 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | tokenUUID | String | 是 | 32 | 令牌 | A97D1A1BAB0F4556B214F34B9699F827 |
-| current | Int |  |  |  |  |
-| rowCount | Int |  |  |  |  |
-| queryMap |  |  |  |  |  |
+| current | Int | 是 | 10 | 页数 | 1 |
+| rowCount | Int | 是 | 10 | 每页条数 | 10 |
+| queryMap | Array | 否 |  | 查询条件 | {"createUser":9} |
+
+| 参数 | 类型 | 是否必填 | 最大长度 | 描述 | 示例值 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| createUser | Int | 是 | 10 | 每页条数 | 10 |
 
 #### 请求示例：
 
 ```json
 {
-    "tokenUUID": "A82ADE66C0824A7F943C17EFEF46C35F"                 //令牌
+    "tokenUUID": "A82ADE66C0824A7F943C17EFEF46C35F",
+    "current": 1,
+    "rowCount": 10,
+    "queryMap": {
+        "createUser": 9
+    }
 }
 ```
 
