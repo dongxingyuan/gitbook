@@ -76,7 +76,7 @@ json={
             "mergeMainFlag": false,                                 //合并格位中的主对象(true:是;false:否)
             "rowLastFlag": false,                                   //每行最后一个标志(true:是;false:否)
             "payStatus": "0",                                       //结算状态(0:未付;1:定金;3:全款)
-            "payStatusHtml": "<br/>(未付)",                         //结算状态
+            "payStatusHtml": "<br/>(未付)",                          //结算状态
             "sellArea": "3.700"                                     //销售面积  
         }
     ],
