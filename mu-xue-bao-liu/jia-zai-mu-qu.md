@@ -48,5 +48,36 @@ json={
 }
 ```
 
+```json
+{
+    "alertFlag": true,
+    "columnNo": 9,
+    "alertCode": "1",
+    "list": [
+        {
+            "gridId": 338800,
+            "tombId": 710253,
+            "rowNo": 0,
+            "columnNo": 0,
+            "path": "大蜀山文化陵园归宁园1区GN1-1",
+            "tombPath": "大蜀山文化陵园归宁园1区GN1-1",
+            "status": 4,
+            "layerCode": "归宁047010101",
+            "graveNo": 2,
+            "baseSum": "2100.00",
+            "displayNo": "GN1-1",
+            "buildFlag": "2",
+            "onSaleFlag": "2",
+            "mergeFlag": false,
+            "mergeMainFlag": false,
+            "rowLastFlag": false,
+            "payStatus": "0",
+            "payStatusHtml": "<br/>(未付)",
+            "sellArea": "3.700"
+        }
+    ]
+}
+```
+
 
 
