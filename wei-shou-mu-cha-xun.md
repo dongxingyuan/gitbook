@@ -51,23 +51,23 @@
 
 ```json
 {
-    "alertFlag": true,
-    "alertCode": "1",
-    "page": {
-        "current": 1,
-        "rowCount": 10,
-        "rows": [
-            {
-                "tombId": "710334",
-                "tombStyleName": "和雅园",
-                "buryStyleName": "雕塑艺术墓",
-                "graveNo": "2",
-                "layerCode": "归宁021020101",
-                "sellArea": "4.900",
-                "baseSum": "89988.00",
-                "tombMaterial": "大理石",
-                "basePrice": "88888.00",
-                "blockName": "归宁园2区"
+    "alertFlag": true,                                                 //成功标识
+    "alertCode": "1",                                                  //成功编码
+    "page": {                                                          //分页数据
+        "current": 1,                                                  //当前页
+        "rowCount": 10,                                                //每页条数
+        "rows": [                                                      //查询数据
+            {            
+                "tombId": "710334",                                    //墓穴ID
+                "tombStyleName": "和雅园",                              //墓型
+                "buryStyleName": "雕塑艺术墓",                           //葬式
+                "graveNo": "2",                                        //穴数
+                "layerCode": "归宁021020101",                           //墓穴编号
+                "sellArea": "4.900",                                    //销售面积
+                "baseSum": "89988.00",                                  //售价
+                "tombMaterial": "大理石",                                //石材料
+                "basePrice": "88888.00",                                //基价
+                "blockName": "归宁园2区"                                 //墓区名称
             }          
         ],
         "total": 165
