@@ -39,19 +39,19 @@
     "page": {                                                        //分页数据
         "current": 1,                                                //当前页号
         "rowCount": 10,                                              //每页条数
-        "rows": [
+        "rows": [                                                    //返回数据
             {
-                "linkman": "张三",
-                "linkmanPhone": "**没有权限**",
-                "linkmanSex": "1",
-                "sellerName": "刘艳",
-                "sellplace": "陵园",
-                "registerUser": "管理员9",
-                "registerDate": "2017-07-07",
-                "linkmanId": 6,
-                "linkmanDetailId": 6,
-                "receiveUser": "",
-                "buyFlag": "0",
+                "linkman": "张三",                                    //联系人
+                "linkmanPhone": "**没有权限**",                        //联系手机
+                "linkmanSex": "1",                                    //联系人性别
+                "sellerName": "刘艳",                                  //营销人
+                "sellplace": "陵园",                                   //营销地点
+                "registerUser": "管理员9",                             //登记人
+                "registerDate": "2017-07-07",                          //登记时间
+                "linkmanId": 6,                                        //售前联系人ID
+                "linkmanDetailId": 6,                                  //售前联系人详情ID 
+                "receiveUser": "",                                     //确认人
+                "buyFlag": "0",                                        //购买标识(0:未购买;1:已购买)
                 "addressFull": "",
                 "layerCode": "",
                 "businessNo": "",
