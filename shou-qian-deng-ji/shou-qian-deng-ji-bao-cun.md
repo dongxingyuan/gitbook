@@ -30,7 +30,7 @@
     "sellerId": "1",
     "userName": "李四",
     "arriveTime": "2018-08-08",
-    "remark": "
+    "remark": "备注"
 }
 ```
 
