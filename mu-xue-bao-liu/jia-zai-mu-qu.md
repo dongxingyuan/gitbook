@@ -74,10 +74,10 @@ json={
             "onSaleFlag": "2",                                      //上账状态  
             "mergeFlag": false,                                     //合并标识(true:合并;false:不合并)
             "mergeMainFlag": false,                                 //合并格位中的主对象(true:是;false:否)
-            "rowLastFlag": false,
-            "payStatus": "0",
+            "rowLastFlag": false,                                   //每行最后一个标志(true:是;false:否)
+            "payStatus": "0",                                       //结算状态(0:未付;1:定金;3:全款)
             "payStatusHtml": "<br/>(未付)",
-            "sellArea": "3.700"
+            "sellArea": "3.700"                                     //销售面积  
         }
     ],
     "type": "2"
