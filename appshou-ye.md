@@ -13,7 +13,7 @@
 #### 请求示例
 
 ```json
-{
+json = {
     "tokenUUID": "A82ADE66C0824A7F943C17EFEF46C35F"    //令牌
 }
 ```
