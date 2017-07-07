@@ -1,6 +1,6 @@
 # 福寿园公墓系统移动端APP接口文档
 
-# 请求接口统一参数名称：json
+# 请求接口统数名称：json
 
 ```json
 json = {"objId":"1", "tokenUUID":"92DC677B77214DD0BA454A759FA7837C"}
