@@ -13,6 +13,7 @@
   * [获取墓穴信息](mu-xue-bao-liu/huo-qu-mu-xue-xin-xi.md)
   * [暂时保留初始化](mu-xue-bao-liu/zan-shi-bao-liu-chu-shi-hua.md)
   * [暂时保留保存](mu-xue-bao-liu/zan-shi-bao-liu-bao-cun.md)
+  * [暂时保留列表](mu-xue-bao-liu/zan-shi-bao-liu-lie-biao.md)
   * [墓穴保留初始化](mu-xue-bao-liu/mu-xue-bao-liu-chu-shi-hua.md)
   * [墓穴保留保存](mu-xue-bao-liu/mu-xue-bao-liu-bao-cun.md)
 * 现在划地
