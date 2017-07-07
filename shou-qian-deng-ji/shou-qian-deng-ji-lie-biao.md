@@ -9,8 +9,8 @@
 | 参数 | 类型 | 是否必填 | 最大长度 | 描述 | 示例值 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | tokenUUID | String | 是 | 32 | 令牌 | A97D1A1BAB0F4556B214F34B9699F827 |
-| current | Integer |  |  |  |  |
-| rowCount | Integer |  |  |  |  |
+| current | Int |  |  |  |  |
+| rowCount | Int |  |  |  |  |
 | queryMap |  |  |  |  |  |
 
 #### 请求示例：
