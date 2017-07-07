@@ -23,6 +23,7 @@ json = {
 ```json
 {
     "alertFlag": true,                                               //成功标识
+    "alertCode": "1"
     "msgs": [                                                        //用户消息
         {
             "id": "9",                                               //消息ID
@@ -35,7 +36,7 @@ json = {
             "status": "1"                                            //消息状态 (0:未接收1:已接收)
         }
     ],
-    "notices": [
+    "notices": [                                                     //通知
         {
             "id": "1",
             "title": "福寿园国际集团第一期“福寿人体验营”",
@@ -70,7 +71,6 @@ json = {
             "content": "1"
         }
     ],
-    "alertCode": "1"
 }
 ```
 
