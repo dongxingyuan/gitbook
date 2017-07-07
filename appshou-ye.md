@@ -1,6 +1,6 @@
 #### 接口**路径：**
 
-[http:8080/fsyGroupApp/common/interface/appIndex](http:8080/fsyGroupApp/common/interface/appIndex)
+[http//localhost:8080/fsyGroupApp/common/interface/appIndex](http:8080/fsyGroupApp/common/interface/appIndex)
 
 ---
 
@@ -14,7 +14,7 @@
 
 ```json
 json = {
-    "tokenUUID": "A82ADE66C0824A7F943C17EFEF46C35F"    //令牌
+    "tokenUUID": "A82ADE66C0824A7F943C17EFEF46C35F"                 //令牌
 }
 ```
 
