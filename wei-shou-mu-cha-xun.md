@@ -61,7 +61,7 @@
                 "tombId": "710334",                                    //墓穴ID
                 "tombStyleName": "和雅园",                              //墓型
                 "buryStyleName": "雕塑艺术墓",                           //葬式
-                "graveNo": "2",                                        //穴数
+                "graveNo": "2",                                         //穴数
                 "layerCode": "归宁021020101",                           //墓穴编号
                 "sellArea": "4.900",                                    //销售面积
                 "baseSum": "89988.00",                                  //售价
