@@ -41,7 +41,7 @@
         "rowCount": 10,                                              //每页条数
         "rows": [                                                    //返回数据
             {
-                "linkman": "张三",                                    //联系人
+                "linkman": "张三",                                     //联系人
                 "linkmanPhone": "**没有权限**",                        //联系手机
                 "linkmanSex": "1",                                    //联系人性别
                 "sellerName": "刘艳",                                  //营销人
