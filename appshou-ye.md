@@ -31,7 +31,7 @@ json = {
             "acceptDate": "2017-06-30",                              //接收时间
             "userName": "管理员1",                                    //发送人
             "headUrl": "http://aliyuncs.com/2017-07/f58.jpg",        //头像
-            "status": "1"                                            //消息状态
+            "status": "1"                                            //消息状态 (0:未接收1:已接收)
         }
     ],
     "alertFlag": true,
