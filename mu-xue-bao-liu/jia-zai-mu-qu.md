@@ -51,8 +51,10 @@ json={
 ```json
 {
     "alertFlag": true,
-    "columnNo": 9,
     "alertCode": "1",
+    "columnNo": 9,
+    "rowNo": 9,
+    "onSiteFlag": "1"
     "list": [
         {
             "gridId": 338800,
@@ -75,7 +77,8 @@ json={
             "payStatusHtml": "<br/>(未付)",
             "sellArea": "3.700"
         }
-    ]
+    ],
+    "type": "2"
 }
 ```
 
