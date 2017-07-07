@@ -3,7 +3,7 @@
 # 统一请求接口参数名称：
 
 ```json
-json = {tokenUUID="92DC677B77214DD0BA454A759FA7837C"}
+json = {"objId":"1", "tokenUUID":"92DC677B77214DD0BA454A759FA7837C"}
 ```
 
 # 统一错误代码：
