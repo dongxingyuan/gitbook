@@ -26,10 +26,10 @@
     "alertCode": "1"                                                 //成功编码
     "unbuyReasonList": [                                             //未购买原因
         {
-            "id": 1,
-            "isValidate": "1",
-            "name": "价格贵",
-            "indexNo": 0
+            "id": 1,                                                 //原因ID
+            "isValidate": "1",                                       //是否有效
+            "name": "价格贵",                                         //原因名称
+            "indexNo": 0                                             //排序
         },
         {
             "id": 2,
