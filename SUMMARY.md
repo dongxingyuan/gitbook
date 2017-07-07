@@ -16,6 +16,7 @@
   * [暂时保留列表](mu-xue-bao-liu/zan-shi-bao-liu-lie-biao.md)
   * [墓穴保留初始化](mu-xue-bao-liu/mu-xue-bao-liu-chu-shi-hua.md)
   * [墓穴保留保存](mu-xue-bao-liu/mu-xue-bao-liu-bao-cun.md)
+  * [墓穴保留列表](mu-xue-bao-liu/mu-xue-bao-liu-lie-biao.md)
 * 现在划地
 * 业务登记
 * 上账审批
