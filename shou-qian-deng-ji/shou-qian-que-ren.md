@@ -24,7 +24,7 @@
 {
     "alertFlag": true,                                               //成功标识
     "alertCode": "1"                                                 //成功编码
-    "unbuyReasonList": [
+    "unbuyReasonList": [                                             //未购买原因
         {
             "id": 1,
             "isValidate": "1",
