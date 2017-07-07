@@ -55,12 +55,12 @@ json={
     },
     "files": [
            {
-            "id": "大蜀山文化陵园长青园1区CQ1_2",
-            "tombId": "长青047010102",
-            "fileName": 2,
-            "filePath": "46200.00"
+            "id": "1",
+            "tombId": "1",
+            "fileName": "墓穴照片",
+            "filePath": "http://aliyuncs.com/2017-07/f58.jpg"
         },
-    ]                                                     //数据类型(1:墓区;2:墓穴)
+    ]                                                    
 }
 ```
 
