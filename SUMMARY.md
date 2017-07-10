@@ -18,7 +18,7 @@
   * [墓穴保留保存](mu-xue-bao-liu/mu-xue-bao-liu-bao-cun.md)
   * [墓穴保留列表](mu-xue-bao-liu/mu-xue-bao-liu-lie-biao.md)
   * [一键洽谈](mu-xue-bao-liu/yi-jian-qia-tan.md)
-* 现在划地
+* [现在划地](xian-zai-hua-di.md)
 * 业务登记
 * 上账审批
 * 优惠卷审批
@@ -26,5 +26,5 @@
 * 迁葬审批
 * 施工单管理
 * 客户查询
-* 销售查询
+* [销售查询](xiao-shou-cha-xun.md)
 

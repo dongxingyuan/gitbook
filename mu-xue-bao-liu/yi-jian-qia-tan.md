@@ -29,33 +29,33 @@
     "alertFlag": true,                                               //成功标识
     "alertCode": "1"                                                 //成功编码
     "bean": {
-        "tombId": "710262",
-        "layerCode": "归宁047010201",
-        "tombPath": "大蜀山文化陵园归宁园1区GN2-1",
-        "graveNo": "2",
-        "basicPrice": "1000.00",
-        "sellplaceId": "1",
-        "sellplaceName": "陵园",
-        "sellerId": "4",
-        "sellerName": "韩洋",
-        "linkMan": "张三",
-        "linkManSex": "9",
-        "linkManPhoneNo": "18662528814",
-        "linkManMobileNo": "18662528814",
-        "addressProvince": "340000",
-        "addressCity": "340100",
-        "addressCountty": "340102",
-        "addressProvinceName": "安徽省",
-        "addressCityName": "合肥市",
-        "addressCounttyName": "瑶海区",
-        "addressDetail": "新村路",
-        "userName": "李四,未知",
-        "userSex": "9,9",
-        "userGraveType": "0,0",
-        "userCertificateId": "",
-        "userCertificateNo": "",
-        "bookSaveId": "",
-        "bookingId": "7411"
+        "tombId": "710262",                                          //墓穴ID
+        "layerCode": "归宁047010201",                                //墓穴编号
+        "tombPath": "大蜀山文化陵园归宁园1区GN2-1",                    //墓穴位置
+        "graveNo": "2",                                              //穴数
+        "basicPrice": "1000.00",                                     //墓穴基价
+        "sellplaceId": "1",                                          //营销地点ID
+        "sellplaceName": "陵园",                                     //营销地点名称
+        "sellerId": "4",                                             //营销人ID
+        "sellerName": "韩洋",                                        //营销人名称
+        "linkMan": "张三",                                           //联系人
+        "linkManSex": "9",                                           //联系人性别
+        "linkManPhoneNo": "18662528814",                             //联系人电话
+        "linkManMobileNo": "18662528814",                            //联系人手机
+        "addressProvince": "340000",                                 //省编码
+        "addressCity": "340100",                                     //市编码
+        "addressCountty": "340102",                                  //区编码
+        "addressProvinceName": "安徽省",                              //省名称
+        "addressCityName": "合肥市",                                  //市名称
+        "addressCounttyName": "瑶海区",                               //区名称
+        "addressDetail": "新村路",                                    //详细地址
+        "userName": "李四,未知",                                      //使用人
+        "userSex": "9,9",                                            //使用人性别
+        "userGraveType": "0,0",                                      //墓穴类型
+        "userCertificateId": "",                                     //使用人证件类型
+        "userCertificateNo": "",                                     //使用人证件编码
+        "bookSaveId": "",                                            //暂时保留ID
+        "bookingId": "7411"                                          //墓穴保留ID
     },
 }
 ```
